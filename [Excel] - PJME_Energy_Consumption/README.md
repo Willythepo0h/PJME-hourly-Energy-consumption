@@ -7,4 +7,4 @@ For the excel sheet please refer to this Google Drive link as the file is too la
 
 ---
 # Preview
-![Dashboard](
+![Dashboard](https://github.com/Willythepo0h/PJME-hourly-Energy-consumption/blob/main/%5BExcel%5D%20-%20PJME_Energy_Consumption/PJME_Energy_Consumption.png)
