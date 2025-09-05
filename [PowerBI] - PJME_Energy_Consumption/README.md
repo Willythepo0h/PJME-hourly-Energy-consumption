@@ -5,5 +5,4 @@ Please refer to this Google Drive link for the .pibx file as the file is too lar
 --- 
 
 # Preview
----
 ![Dashboard](https://github.com/Willythepo0h/PJME-hourly-Energy-consumption/blob/main/%5BPowerBI%5D%20-%20PJME_Energy_Consumption/PJM-Hourly-Energy-Consumption.jpg)
