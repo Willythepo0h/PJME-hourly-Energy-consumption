@@ -1,5 +1,5 @@
 This subfolder contains the excel file using the PJM Hourly Energy Consumption.
-The excel file is using the processed data from the Machine Learning Model. For the original data please refer to Kaggle Link.
+The excel file used is the processed data from the Machine Learning Model. For the original data please refer to Kaggle Link.
 
 Kaggle Link: https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
